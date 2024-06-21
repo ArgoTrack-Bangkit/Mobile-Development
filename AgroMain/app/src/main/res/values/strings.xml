@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">AgroTrack</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_history">History</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_maps">Maps</string>
+    <string name="title_scan">Scan</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="camerax">CameraX</string>
+    <string name="upload">Upload</string>
+    <string name="tap_the_scan">Tap the scan icon to start scanning your tomato &lt;3</string>
+    <string name="welcome">Welcome to AgroTrack</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="judul">Judul</string>
+    <string name="tomatoes_have">Tomatoes have blossom-end rot. Not suitable for sale.</string>
+
+    <string-array name="data_name">
+        <item>Blossom-end Rot of Tomatoes</item>
+        <item>Tips Menanam Tomat</item>
+        <item>Cara Mudah Merawat Tomat</item>
+        <item>Apakah tomat anda sehat?</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Tidak banyak hal yang lebih membuat frustrasi daripada menanam tomat yang tampak sehat, tanaman yang menghasilkan banyak bunga dan buah, dan kemudian, setelah tomat Anda berukuran sebesar bola golf, buahnya membusuk dari pangkalnya. Kondisi yang sangat umum ini, disebut Blossom End Rot (BER), disebabkan oleh salah satu dari dua cara berikut: kekurangan kalsium tanah atau gangguan penyerapan kalsium tanah oleh tanaman.</item>
+        <item>Tomat adalah salah satu buah yang kerap ditanam di pekarangan rumah. Pasalnya, tomat termasuk ke dalam tanaman yang dapat tumbuh di segala medan, cara menanamnya mudah, dan perawatannya tak sulit.</item>
+        <item>Tanamlah tomat di lokasi yang terkena sinar matahari penuh, pastikan penyiraman cukup, dan beri pupuk organik secara teratur.</item>
+        <item>Tomat yang sehat memiliki daun yang hijau mengkilap, batang yang kuat tanpa tanda-tanda penyakit, dan buah yang berwarna merah cerah serta bebas dari cacat fisik.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/artikel_tomat</item>
+        <item>@drawable/artikel2</item>
+        <item>@drawable/tomato_je</item>
+        <item>@drawable/images</item>
+    </integer-array>
+</resources>
